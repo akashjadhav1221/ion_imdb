@@ -1,5 +1,7 @@
 {
   "name": "iondb",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
